@@ -1,0 +1,34 @@
+{
+  "name": "version_desk_react_00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development ./node_modules/.bin/webpack-dev-server --history-api-fallback --progress --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^2.4.1",
+    "font-awesome": "^4.5.0",
+    "react": "^15.2.1",
+    "react-bootstrap": "^0.28.5",
+    "react-document-meta": "^2.0.3",
+    "react-dom": "^15.2.1",
+    "react-fontawesome": "^0.3.3",
+    "react-router": "^2.6.0",
+    "react-star-rating": "^1.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "copy-webpack-plugin": "^3.0.1",
+    "file-loader": "^0.9.0",
+    "webpack": "^2.1.0-beta.4",
+    "webpack-dev-server": "^2.1.0-beta.0"
+  }
+}

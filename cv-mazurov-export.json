@@ -1,0 +1,307 @@
+[ {
+  "id" : 0,
+  "img" : "Programming.png",
+  "items" : [ {
+    "duration" : 3,
+    "extra" : "was used in a big communication project",
+    "id" : 0,
+    "img" : "c.png",
+    "item" : "C",
+    "link" : "c",
+    "rating" : 3
+  }, {
+    "duration" : 10,
+    "extra" : "was used as main language in production in all areas",
+    "id" : 1,
+    "img" : "java.jpg",
+    "item" : "Java",
+    "link" : "java",
+    "rating" : 5
+  }, {
+    "duration" : 4,
+    "extra" : "main language for web aplication production",
+    "id" : 2,
+    "img" : "javascript.png",
+    "item" : "JavaScript",
+    "link" : "javascript",
+    "rating" : 5
+  }, {
+    "duration" : 3,
+    "extra" : "actually used now in production as substitute for JAVA",
+    "id" : 3,
+    "img" : "golang.png",
+    "item" : "GoLang",
+    "link" : "golang",
+    "rating" : 5
+  }, {
+    "duration" : 1,
+    "extra" : "abandoned now in favor of JavaScript",
+    "id" : 4,
+    "img" : "dart.png",
+    "item" : "Dart",
+    "link" : "dart",
+    "rating" : 2
+  }, {
+    "duration" : 2,
+    "extra" : "abandoned now in favor of Golang",
+    "id" : 5,
+    "img" : "ruby.jpg",
+    "item" : "Ruby",
+    "link" : "ruby",
+    "rating" : 3
+  }, {
+    "duration" : 1,
+    "extra" : "in some cases used in production but not widely",
+    "id" : 6,
+    "img" : "python.png",
+    "item" : "Python",
+    "link" : "python",
+    "rating" : 2
+  }, {
+    "duration" : 1,
+    "extra" : "practically not used any more abandoned now in favor of JavaScript",
+    "id" : 7,
+    "img" : "php.png",
+    "item" : "PHP",
+    "link" : "php",
+    "rating" : 1
+  } ],
+  "link" : "languages",
+  "title" : "Languages"
+}, {
+  "id" : 1,
+  "img" : "gears-framework-transparent.png",
+  "items" : [ {
+    "duration" : 1,
+    "extra" : "now used in all new project",
+    "id" : 0,
+    "img" : "react.png",
+    "item" : "React",
+    "link" : "react",
+    "rating" : 5
+  }, {
+    "duration" : 2,
+    "extra" : "actually used in production",
+    "id" : 1,
+    "img" : "angularjs.png",
+    "item" : "Angularjs",
+    "link" : "angularjs",
+    "rating" : 5
+  }, {
+    "duration" : 1,
+    "extra" : "still in use but mostly abandoned in favor of Angularjs/React",
+    "id" : 2,
+    "img" : "rubyonrails.png",
+    "item" : "Ruby on Rails",
+    "link" : "ruby_on_rails",
+    "rating" : 2
+  } ],
+  "link" : "frameworks",
+  "title" : "Frameworks"
+}, {
+  "id" : 2,
+  "img" : "operatingsystems.png",
+  "items" : [ {
+    "duration" : 23,
+    "extra" : "99% used in production as main OS",
+    "id" : 0,
+    "img" : "linux.png",
+    "item" : "Linux",
+    "link" : "linux",
+    "rating" : 5
+  }, {
+    "duration" : 2,
+    "extra" : "was used in production abandoned now in favor of Linux",
+    "id" : 1,
+    "img" : "solaris.gif",
+    "item" : "Solaris",
+    "link" : "solaris",
+    "rating" : 1
+  }, {
+    "duration" : 1,
+    "extra" : "was used in production abandoned now in favor of Linux",
+    "id" : 2,
+    "img" : "freebsd.png",
+    "item" : "FreeBsd",
+    "link" : "freebsd",
+    "rating" : 1
+  }, {
+    "duration" : 1,
+    "extra" : "was used in production for VOIP abandoned now in favor of Linux",
+    "id" : 3,
+    "img" : "cisco.jpg",
+    "item" : "Cisco IOS",
+    "link" : "cisko-io",
+    "rating" : 1
+  } ],
+  "link" : "operatingsystems",
+  "title" : "Operating Systems"
+}, {
+  "id" : 3,
+  "img" : "databases.png",
+  "items" : [ {
+    "duration" : 20,
+    "extra" : "mostly used in production before NOSQL DB",
+    "id" : 0,
+    "img" : "mysql.png",
+    "item" : "Mysql",
+    "link" : "mysql",
+    "rating" : 5
+  }, {
+    "duration" : 2,
+    "extra" : "widely used in production especially in Clouds structure",
+    "id" : 1,
+    "img" : "redis.png",
+    "item" : "Redis",
+    "link" : "Redis",
+    "rating" : 5
+  }, {
+    "duration" : 1,
+    "extra" : "in some cases was used in production for small application",
+    "id" : 2,
+    "img" : "sqlite.png",
+    "item" : "Sqlite",
+    "link" : "sqlite",
+    "rating" : 3
+  }, {
+    "duration" : 1,
+    "extra" : "was use before MySQL as main DB",
+    "id" : 3,
+    "img" : "postgresql.png",
+    "item" : "Postgresql",
+    "link" : "postgresql",
+    "rating" : 3
+  }, {
+    "duration" : 1,
+    "extra" : "was only tested as potential replacement for MySQL",
+    "id" : 4,
+    "img" : "oracle.png",
+    "item" : "Oracle",
+    "link" : "oracle",
+    "rating" : 1
+  } ],
+  "link" : "databases",
+  "title" : "Data Bases"
+}, {
+  "id" : 4,
+  "img" : "telecommunication.png",
+  "items" : [ {
+    "duration" : 18,
+    "extra" : "used as main application for production",
+    "id" : 0,
+    "img" : "asterisk.png",
+    "item" : "Asterisk",
+    "link" : "asterisk",
+    "rating" : 5
+  }, {
+    "duration" : 2,
+    "extra" : "was only tested as potential replacement for Asterisk",
+    "id" : 1,
+    "img" : "kamailio.png",
+    "item" : "Kamailio",
+    "link" : "kamailio",
+    "rating" : 2
+  }, {
+    "duration" : 1,
+    "extra" : "was used in production",
+    "id" : 2,
+    "img" : "cisco.png",
+    "item" : "Cisco",
+    "link" : "Cisco",
+    "rating" : 3
+  }, {
+    "duration" : 10,
+    "extra" : "main application for SMS messages actually in use",
+    "id" : 3,
+    "img" : "kannel.png",
+    "item" : "Kannel",
+    "link" : "kannel",
+    "rating" : 4
+  } ],
+  "link" : "telecommunication",
+  "title" : "Telecommunication"
+}, {
+  "id" : 5,
+  "img" : "cloudcomputing.png",
+  "items" : [ {
+    "duration" : 2,
+    "extra" : "actually used in production as main platform",
+    "id" : 0,
+    "img" : "digitalocean.png",
+    "item" : "Digital Ocean",
+    "link" : "digital-ocean",
+    "rating" : 5
+  }, {
+    "duration" : 2,
+    "extra" : "still main production based on AWS",
+    "id" : 1,
+    "img" : "aws.gif",
+    "item" : "Amazon Web Service",
+    "link" : "amazon-web-service",
+    "rating" : 2
+  }, {
+    "duration" : 5,
+    "extra" : "still in use but abandoned in favor of Digital Ocean",
+    "id" : 2,
+    "img" : "googleappengine.jpg",
+    "item" : "Google App Engine",
+    "link" : "google-app-engine",
+    "rating" : 4
+  }, {
+    "duration" : 5,
+    "extra" : "still in use but abandoned in favor of Digital Ocean",
+    "id" : 3,
+    "img" : "rackspace.png",
+    "item" : "Rackspace",
+    "link" : "rackspace",
+    "rating" : 3
+  }, {
+    "duration" : 1,
+    "extra" : "only was tested",
+    "id" : 4,
+    "img" : "heroku.png",
+    "item" : "Heroku",
+    "link" : "heroku",
+    "rating" : 1
+  }, {
+    "duration" : 1,
+    "extra" : "basic knowledge",
+    "id" : 5,
+    "img" : "docker.png",
+    "item" : "Docker",
+    "link" : "docker",
+    "rating" : 1
+  } ],
+  "link" : "cloudcomputing",
+  "title" : "Cloud Computing"
+}, {
+  "id" : 6,
+  "img" : "seocomputing.png",
+  "items" : [ {
+    "duration" : 6,
+    "extra" : "constantly monitored and studied",
+    "id" : 0,
+    "img" : "seo.jpg",
+    "item" : "Organic Optimization",
+    "link" : "otganic-optimization",
+    "rating" : 5
+  }, {
+    "duration" : 3,
+    "extra" : "used in production",
+    "id" : 1,
+    "img" : "adwords.png",
+    "item" : "AdWords",
+    "link" : "adwords",
+    "rating" : 3
+  }, {
+    "duration" : 3,
+    "extra" : "used in production",
+    "id" : 2,
+    "img" : "adsense.png",
+    "item" : "AdSense",
+    "link" : "adsense",
+    "rating" : 3
+  } ],
+  "link" : "seocomputing",
+  "title" : "SEO Computing"
+} ]
