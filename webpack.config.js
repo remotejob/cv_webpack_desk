@@ -15,7 +15,7 @@ module.exports = {
 		entry: {
 		   
 		    js : [ './index.js' ],
-			vendor: ["react","react-router","react-bootstrap","react-document-meta","firebase","react-star-rating"],
+			vendor: ["react","react-router","react-bootstrap","react-document-meta","firebase"],
 		  },
    output: {
 		path : path.join(__dirname, './static'),

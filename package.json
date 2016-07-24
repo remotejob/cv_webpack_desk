@@ -14,12 +14,11 @@
     "firebase": "^2.4.1",
     "font-awesome": "^4.5.0",
     "react": "^15.2.1",
-    "react-bootstrap": "^0.28.5",
+    "react-bootstrap": "^0.29.3",
     "react-document-meta": "^2.0.3",
     "react-dom": "^15.2.1",
     "react-fontawesome": "^0.3.3",
-    "react-router": "^2.6.0",
-    "react-star-rating": "^1.4.2"
+    "react-router": "^2.6.0"
   },
   "devDependencies": {
     "babel-core": "^6.5.2",
