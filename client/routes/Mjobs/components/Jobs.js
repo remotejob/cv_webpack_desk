@@ -51,7 +51,8 @@ class Jobs extends React.Component {
 		var site ="remotejobs.club"
 		
 		var request = new XMLHttpRequest();
-		request.open('GET', 'http://'+site+':8080/api/'+stitle,false);
+//		request.open('GET', 'http://'+site+':8080/api/'+stitle,false);
+		request.open('GET', '/api/'+stitle,false);
 		
 		request.onload = function() {
 			  if (request.status >= 200 && request.status < 400) {
